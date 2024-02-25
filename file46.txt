@@ -1,4 +1,8 @@
 
+
+
+hey bob
+
 output_file=file14.txt
 
 find . -type f -size -5M >> $output_file
